@@ -1,7 +1,7 @@
 ---
 title: Investigación en didáctica y práctica docente
-subtitle: ¿Quién dijo hueco?
-author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/val.jpg" align="center" style="padding-right:0px;" height="70px" >  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="70px" >  <br> 25 de noviembre de 2020 <br>  Seminario de tertulias dialógicas docentes del IES Río Gállego <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> 
+subtitle: Hola, didáctica específica 
+author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/val.jpg" align="center" style="padding-right:0px;" height="70px" >  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="70px" >  <br> 9 de diciembre de 2020 <br>  Seminario de tertulias dialógicas docentes del IES Río Gállego <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> 
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -15,10 +15,10 @@ widescreen: true
 
 ![](assets/qr.png){width=50%}
 
-[https://pbeltran.github.io/investigacion-practica-ene2020](https://pbeltran.github.io/investigacion-practica-ene2020)
+[https://pbeltran.github.io/2020-riogallego-investiga-practica](https://pbeltran.github.io/2020-riogallego-investiga-practica)
 
 
-# Un acercamiento al área de didáctica de las matemáticas {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+# Un acercamiento a las didácticas específicas {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
 
 ## ¿Innovación? ¿Qué es innovación?
 
@@ -35,93 +35,157 @@ widescreen: true
 
 [Bipolaridad tuitera](https://twitter.com/pbeltranp/status/1093987718051319814)
 
-Entre el mundo de los congresos de "innovación" chorras (ojo comillas), normalmente auspiciados por bancos y tecnológicas, y el de los que detestan todo lo que huela a pedagogía o didáctica (disciplinas que no suelen distinguir), hay todo un universo por explorar.
+Entre el mundo de la "innovación" (ojo comillas) y el de los que detestan todo lo que huela a pedagogía o didáctica (disciplinas que no suelen distinguir), hay todo un universo por explorar.
 
 :::
 :::::::::::::
 
+## Un fragmento sobre el que pensar {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
 
-## ¿Una revelación?
+![](assets/images/recuerdosayer.png){width=100%}
 
-![](assets/images/obiwan2.jpg){width=100%}
+[Enlace al fragmento de «Recuerdos del ayer»](https://youtu.be/Rg9XEL90iGk)
 
-## Carácter prescriptivo de la didáctica {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+## Algunas preguntas a partir de este vídeo {data-background-image="assets/images/recuerdosayer.png" data-background-opacity="0.20"}
+
+- ¿Cuál es el objeto de aprendizaje, el contenido?
+- ¿Hay algo que te resulta familiar?
+- ¿Hay algo que no encaja?
+- En ese caso, ¿cómo se soluciona?
+
+
+## ¿Te va a decir la didáctica cómo enseñar? {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+
+¿Tiene la didáctica un carácter prescriptivo?
 
 > ¿Hasta qué punto, en qué forma y en qué condiciones, la didáctica puede (o incluso debe) proponer juicios valorativos y normativos que proporcionen criterios sobre cómo organizar y gestionar los procesos de estudio? (p. 26)
 
 Gascón & Nicolás (2017). 
 
-## Conocimientos y competencias del profesor de matemáticas {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
 
+# Habéis elegido dos artículos para la tertulia...
+
+##
+
+:pushpin: Feito, R. (2010). De las competencias básicas al currículum integrado. *Qurriculum Revista de Teoría, Investigación y Práctica Educativa, 23*, 55-79. [Enlace](https://riull.ull.es/xmlui/bitstream/handle/915/13343/Q_23_%282010%29_03.pdf?sequence=1&isAllowed=y)
+
+:pushpin: Grossman, P. (2005). Profesores de Sustancia: El conocimiento de la materia para la enseñanza *Profesorado. Revista de currículum y formación del profesorado, 9*(2), 1-25. [Enlace](https://recyt.fecyt.es/index.php/profesorado/article/view/42676)
+
+
+## Algunas anotaciones sobre Feito (2010)
+
+- Aprendizaje por competencias: qué cabe esperar de una persona después de la ESO. Para desenvolverse con soltura como trabajador, como ciudadano, como miembro de una familia, de una comunidad.
+- No basta con los meros conocimientos. 
+- Se es competente cuando es capaz de resolver problemas reales.
+- No es de recibo **que se conozca la ley de Ohm** y al mismo tiempo se sea incapaz de explicar el funcionamiento del circuito de una linterna eléctrica.
+
+> ¿Qué es conocer la ley de Ohm?
+
+##
+
+- Escuela pensada para una minoría. Carácter propedéutico y segregador. 
+- Segmenta los saberes en asignaturas, lo que da lugar a descoordinaciones. 
+- El alumnado es muy consciente de esta limitación. Intereses del alumnado.
+- La lógica es la de la globalización curricular. 
+
+##
+
+- Ejemplo sobre Historia. Los alumnos memorizan fechas y los acontecimientos claves. Esto da lugar a una comprensión superficial y a un escaso interés en el tema abordado. 
+- El alumnado no llega a desarrollar destrezas fundamentales como escribir, investigar, resolver problemas, destrezas que solo pueden adquirirse si se dedica el suficiente tiempo y energía para analizar una única cuestión, como pudiera ser la Gran Depresión.
+- Propuesta: en lugar de aprender literatura en la clase de lengua e historia en otra clase, el alumnado aborda un tema e investiga el modo en que el arte, la literatura, los medios de comunicación describen el periodo.
+
+
+
+## Algunos apuntes sobre Grossman (2010)
+
+![](assets/images/pck.png){width=50%}
+
+Shulman’s (1986) domains of pedagogical content knowledge (PCK)
+
+## MKT
+
+![](assets/images/mkt.png){width=75%}
+
+Mathematical knowledge for teaching (MKT) (Hill et al., 2008, p. 377)
+
+## MTSK
+
+![](assets/images/mtsk.png){width=60%}
+
+Mathematics teacher’s specialised knowledge (MTSK) (Carrillo-Yañez, et al., 2018)
+
+## CCDM {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.18"}
 
 ![](assets/images/ccdm.jpg){width=75%}
 
-Fuente: Godino, Batanero, Font, & Giacomone (2016). 
+Modelo de conocimientos y competencias Godino, Batanero, Font, & Giacomone (2016). 
 
-## Idoneidad didáctica {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+## CCDM {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.18"}
+
+![](assets/images/CCDM-comp.png){width=75%}
+
+Modelo de Conocimientos y Competencias Didáctico-Matemáticas (CCDM) (Godino, Batanero, Font, & Giacomone (2016). 
+
+# Conocimiento especializado y didáctico-matemático
 
 
-![](assets/images/idoneidad.png){width=65%}
+## Enfoques de enseñanza {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
 
-Fuente: Godino (2013).
+:::::::::::::: {.columns}
 
-## Dominio afectivo {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+::: {.column width="45%"}
+![](assets/images/matessinpizarra.jpg){width=100%}
+:::
 
+::: {.column width="45%"}
+
+El librito es de 1986. Mismas preocupaciones que ahora.
+
+![](assets/images/ecg.gif){width=100%}
+
+:::
+:::::::::::::
+
+## ¿Qué es enseñar a través de la resolución de problemas? {data-background-image="assets/art/clase.jpg" data-background-opacity="0.12"}
 
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
 
-- Emociones.
-- Actitudes.
-- Creencias.
-- Valores.
-
-![](assets/images/matematicaemocional.jpg){width=70%}
+![](assets/images/clase_censored.jpg){width=100%}
 
 :::
 
 ::: {.column width="45%"}
 
-> De profesores y alumnos.
-
-- Hacia las matemáticas.
-- Hacia su enseñanza.
-- Etc. 
-
-:small_blue_diamond::small_blue_diamond::small_blue_diamond:
-
-No hay una única manera de enseñar "bien" las matemáticas.
-
-:::
-:::::::::::::
-
-## Diversidad de significados {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-
-![](assets/images/videos1.jpg){width=100%}
+![](assets/images/ana_censored.jpg){width=100%}
 
 :::
 
-::: {.column width="45%"}
+::::::::::::::
 
-Los vídeos analizados mostraron **diversidad de significados** e **idoneidades didácticas (epistémicas)** dispares. Los más populares no siempre son los más idóneos.
+## ¿Qué dice la investigación? {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
 
-:::
-:::::::::::::
+> La investigación sugiere claramente que la RP no debe enseñarse como un tema separado en el currículo de matemáticas. De hecho, nos dice que enseñar a los estudiantes a usar estrategias generales de RP tiene poco efecto en su éxito como solucionadores de problemas.
 
-Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). 
+Cai y Lester (2010).
 
-[Enlace al hilo con los highlights](https://twitter.com/pbeltranp/status/1068594452133003264)
+## ¿Qué pasa si vas con un enfoque a través de la resolución de problemas a una clase acostumbrada a otra cosa? {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
 
-:bulb::bulb::bulb:
+![](assets/images/wall.gif){width=70%}
 
-Una actividad similar la planteamos como taller en el máster.
+El gif es gracioso, pero un poco exagerado.
 
-## Valorar "metodologías" {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+## Coherencia incansable (relentless consistency) {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
+
+> La cultura de aula importa (contrato didáctico).
+
+Es común encontrar resistencia cuando el enfoque que plantea el docente es a través de la RP y la cultura de aula es todo lo contrario. ¿Qué hacer? 
+
+> Relentless consistency (¿coherencia incansable?) Brown y Coles (2013) :muscle:
+
+
+## Conocimiento especializado y didáctico-matemático para valorar "metodologías" {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
 
 :::::::::::::: {.columns}
 
@@ -137,7 +201,7 @@ Lo que se hace no es invertir nada, sino desplazar. Es dar la **teoría** en cas
 
 > Gamificación 
 
-No es lo mismo que el uso de juegos como recurso didáctico.
+No es lo mismo que el uso de juegos como recurso didáctico (al menos, en matemáticas).
 
 :::
 :::::::::::::
@@ -185,18 +249,6 @@ Evidencia: ¿qué evidencia?
 :::
 :::::::::::::
 
-## Útil para algunos, poco útil para otros {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
-
-![](assets/images/amazon.jpg){width=90%}
-
-Esto es una **ciencia social**. Si esto va de aprendizaje, ¿qué queremos que aprenda nuestro alumnado? 
-
-:small_blue_diamond::small_blue_diamond::small_blue_diamond:
-
-La **respuesta** no tiene solución única. El **cómo**, tampoco.
-
-
-
 
 ## Enseñanza y aprendizaje de contenidos concretos {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
 
@@ -218,137 +270,6 @@ La **respuesta** no tiene solución única. El **cómo**, tampoco.
 
 :::
 :::::::::::::
-
-## Para una visión del área de didática de las matemáticas
-
-> Una opción puede ser empezar por esto de aquí (secundaria)
-
-![](assets/images/apren.jpg){width=30%}
-
-_Aprendizaje y enseñanza de las matemáticas_ (Arce, Conejo y Muñoz, 2019). 
-
-
-# A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-## Matemáticas sin pizarra {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-![](assets/images/matessinpizarra.jpg){width=100%}
-:::
-
-::: {.column width="45%"}
-
-El librito es de 1986. Mismas preocupaciones que ahora.
-
-![](assets/images/ecg.gif){width=100%}
-
-:::
-:::::::::::::
-
-## Matemáticas sin pizarra {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-> El prólogo expone las razones que llevaron a prepararlo.
-
-- Contenidos de 1º BUP (3º ESO) excesivamente teóricos y sin relación con los intereses vitales del alumnado.
-- Las clases se basan casi exclusivamente en explicaciones del profesor. 
-
-. . .
-
-:see_no_evil: :hear_no_evil: :speak_no_evil:
-
-Fomenta actitudes pasivas en los alumnos, que pasan más tiempo _viendo hacer_ que _haciendo_. Imitando.
-
-:see_no_evil: :hear_no_evil: :speak_no_evil:
-
-
-## Matemáticas sin pizarra {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-> El profesor **protege** excesivamente al alumnado. 
-
-- Explica con detalle el libro de texto, inhibiendo la competencia lectora del alumno. 
-- Dice cómo se tienen que resolver los ejercicios.
-- Avisa de los errores que no se deben cometer.
-- Resuelve dudas y preguntas antes de que ellos se las planteen.
-- El alumno no desarrolla capacidad de crítica y evaluación de su trabajo, pues el profesor siempre decide lo que está bien y lo que está mal.
-
-:scroll: Contrato didáctico "clásico" :scroll:
-
-## Matemáticas sin pizarra {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-- Separación artificial entre la teoría y los ejercicios.
-- Apenas se realizan problemas de verdad.
-
-:question::question::question:
-
-> ¿Qué es un problema?
-
-- Enseñar **para** resolver problemas.
-- Enseñar **a través** de la resolución de problemas. 
-- Enseñar **sobre** resolución de problemas.
-
-## Educación inclusiva {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-![](assets/images/esoobligatoria.jpg){width=100%}
-
-
-## ¿Qué pasa si vas con un enfoque a través de la resolución de problemas a una clase acostumbrada a otra cosa? {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-![](assets/images/wall.gif){width=70%}
-
-
-El gif es gracioso, pero un poco exagerado.
-
-## Las tareas no son teacher-proofed {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-![](assets/images/acostumbrados.jpg){width=90%}
-
-## Coherencia incansable (relentless consistency) {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
-
-> La cultura de aula importa (contrato didáctico).
-
-Es común encontrar resistencia cuando el enfoque que plantea el docente es a través de la RP y la cultura de aula es todo lo contrario. ¿Qué hacer? 
-
-> Relentless consistency (¿coherencia incansable?) Brown y Coles (2013) :muscle:
-
-## Uso del cuaderno {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.2"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-![](assets/images/tutocuaderno.jpg){width=100%}
-
-[Enlace al vídeo](https://www.youtube.com/watch?v=Su66IdciZfg)
-:::
-
-::: {.column width="45%"}
-
-- Espacio público. 
-- Espacio privado.
-
-:small_blue_diamond::small_blue_diamond::small_blue_diamond:
-
-:white_check_mark: ¿Cómo lo evaluamos? 
-
-[Exámenes de cuaderno](https://tierradenumeros.com/post/examen-de-cuaderno/)
-
-:::
-:::::::::::::
-
-## WODB {data-background-image="assets/images/wodb.jpg" data-background-opacity="0.2"}
-
-![](assets/images/wodb-numbers.jpg){width=55%}
-
-[wodb.ca](http://wodb.ca/)
-
-## WODB en el máster {data-background-image="assets/images/wodb.jpg" data-background-opacity="0.2"}
-
-
-
-![](assets/images/wodbmaster.jpg){width=60%}
-
-
 
 
 # Contenidos concretos {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
@@ -649,22 +570,49 @@ Fuente: prácticas de Didáctica de la Geometría. Área de Didáctica de la Mat
 
 
 
-## Geomtría: áreas
+## Geometría: áreas
 
 ![](assets/images/areas.jpg){width=90%}
 
 
+
+
+# ¿Por qué enseñar matemáticas?
+
+## ¿Por qué enseñar matemáticas? (Ernest, 2000)
+
+- No existe LA matemática escolar. 
+- La utilidad de las matemáticas académicas está sobrevalorada. Sí, vivimos en una sociedad altamente matematizada, muy científica y tecnológica. _Nuestra sociedad vive un incesante proceso de matematización, pero esto es algo que opera a un nivel invisible para la mayoría de los individuos_.
+- Los objetivos de la educación matemática no pueden considerarse de forma aislada a su contexto social (intencionalidad).
+
+> Dos dimensiones a la hora de diseñar el currículo: *capacidad* (o habilidad, o competencia, para entendernos) y *apreciación* de las matemáticas.
+
+
+## Objetivos de las matemáticas escolares obligatorias
+
+:::incremental
+
+- Obj1. Reproducir habilidades matemáticas y capacidades basadas en el conocimiento. El obj1 es típico del currículo reproductivo. 
+- Obj2. Desarrollar habilidades creativas en matemáticas. Aprender a ser creativo y a expresarse vía trabajos de investigación, resolución de problemas, diferentes representaciones, etc. 
+- Obj3. Desarrollar habilidades matemáticas que empoderen y una apreciación crítica de las aplicaciones y usos sociales de las matemáticas. 
+- Obj4. Desarrollar una apreciación interna de las matemáticas: sus grandes ideas y su naturaleza. Es decir, las matemáticas como una contribución única a la cultura humana, con unos conceptos y un sentido de la estética propios.
+:::
+
+## ¿Qué matemáticas queremos?
+
+Y es que las matemáticas serán maravillosas, pero también pueden servir para discriminar y fomentar la desigualdad de oportunidades.
+
+ > ¿De qué matemáticas estamos hablando? ¿Qué subconjunto de objetivos persiguen?
+
+## Enseñar matemáticas humanistas y enseñar matemáticas de forma humanista 
+
+En un ensayo genial, Brown (1996) pone sobre la mesa que no es lo mismo enseñar matemáticas humanistas que enseñar matemáticas de forma humanista.
+
+![](assets/images/brown1.png){width=80%}
+
+
+
 # Terminando {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
-
-## ¿Por qué la enseñanza a través de la RP es importante para el aprendizaje de los alumnos? {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
-
-![](assets/images/citarp.png){width=85%}
-
-## {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
-
-> La investigación sugiere claramente que la RP no debe enseñarse como un tema separado en el currículo de matemáticas. De hecho, nos dice que enseñar a los estudiantes a usar estrategias generales de RP tiene poco efecto en su éxito como solucionadores de problemas.”
-
-Cai y Lester (2010).
 
 ## Cultura científica del profesor de matemáticas y profesionalización {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
 
@@ -672,24 +620,30 @@ Cai y Lester (2010).
 
 ::: {.column width="45%"}
 
-> Lista de los RRMM
+> Lista de los RR.MM.
 
 - Ratios adecuadas.
 - Menos horas lectivas.
+- Programación a partir del currículo.
 - Formación en horario de trabajo.
-- Codocencia o _lesson study_. 
+- Codocencia o *lesson study*. 
 
 :::
 
 ::: {.column width="45%"}
 
-
 - ¿Cuántos profesores acudimos a jornadas y congresos?
+- ¿Tenemos incentivos y facilidades para ello?
 - ¿Cuántos sabemos qué es la FESPM?
 - ¿Cuántos sabemos qué es la SEIEM?
 
 :::
 :::::::::::::
+
+
+##
+
+![](assets/images/fichafracciones.png){width=85%}
 
 
 
@@ -721,11 +675,18 @@ Brown, L., & Coles, A. (2013).On doing the same problem – first lessons and re
 
 Cai, J., & Lester, F. (2010). Why is Teaching with Problem Solving Important to Student Learning? _NCTM, 13_(12), 1–6. [Enlace](https://www.nctm.org/uploadedFiles/Research_and_Advocacy/research_brief_and_clips/Research_brief_14_-_Problem_Solving.pdf)
 
+Carrillo-Yañez, J., Climent, N., Montes, M., Contreras, L. C., Flores-Medrano, E., Escudero-Ávila, D., ... & Ribeiro, M. (2018). The mathematics teacher’s specialised knowledge (MTSK) model. *Research in Mathematics Education, 20*(3), 236-253.
+
 Cid, E. (2015). _Obstáculos epistemológicos en la enseñanza de los números negativos_. Tesid doctoral. Universidad de Zaragoza. [Enlace](http://www.atd-tad.org/documentos/obstaculos-epistemologicos-en-la-ensenanza-de-los-numeros-negativos-tesis-doctoral/)
 
 ##
 
+
+
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L. D. English, & D. Kirshner (Eds.), _Handbook of International Research in Mathematics Education_, pp. 313-335. Routledge.
+
+Ernest, P. (2000). Why Teach Mathematics. En J. White & S. Bramall, *Why Learn Maths?*. London University Institute of Education: London. [Enlace](http://socialsciences.exeter.ac.uk/education/research/centres/stem/publications/pmej/why.htm)
+
 
 Escolano, R. (2007.) _Enseñanza del número racional positivo en Educación Primaria: un estudio desde modelos de medida y cociente._ Tesis doctoral. Universidad de Zaragoza. [Enlace](https://zaguan.unizar.es/record/84666) 
 
@@ -747,6 +708,12 @@ Godino, J. D., Batanero, C., Font, V., & Giacomone, B. (2016). Articulando conoc
 
 Gómez-Chacón, I. M. (2000). _Matemática emocional: Los afectos en el aprendizaje matemático._ Madrid: Narcea.
 
+##
+
+Hill, H.C., Ball, D.L., & Schilling, S.G. (2008). Unpacking pedagogical content knowledge: Conceptualizing and measuring teachers topic specific knowledge of students. *Journal for Research in Mathematics Education, 39*(4), 372-400.
+
+
+
 Martínez-Juste, S., Muñoz-Escolano, J. M., & Oller-Marcén, A. M. (2019). Una experiencia de investigación-acción para la enseñanza de la proporcionalidad compuesta._ Enseñanza de las ciencias, 37_(2), 85-106. [Enlace](https://www.raco.cat/index.php/Ensenanza/article/download/356155/448100)
 
 ##
@@ -758,6 +725,9 @@ Oller-Marcén, A. (2012). _Proporcionalidad aritmética: una propuesta didáctic
 ##
 
 Ricart, M., Beltrán-Pellicer, P. y Estrada, A. (2019). Actividad scaffolding en geometría para desarrollar habilidades de argumentación y clasificación en futuros maestros de Educación Infantil. En J. M. Marbán, M. Arce, A. Maroto, J. M. Muñoz-Escolano y Á. Alsina (Eds.), _Investigación en Educación Matemática XXIII_ (pp. 503-512). Valladolid: SEIEM.
+
+Shulman, L. S. (1986). Those who understand, knowledge growth in teaching. *Educational Researcher, 15*(2), 4-14.
+
 
 ## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
