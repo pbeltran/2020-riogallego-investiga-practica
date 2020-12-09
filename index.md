@@ -79,7 +79,9 @@ Gascón & Nicolás (2017).
 - Se es competente cuando es capaz de resolver problemas reales.
 - No es de recibo **que se conozca la ley de Ohm** y al mismo tiempo se sea incapaz de explicar el funcionamiento del circuito de una linterna eléctrica.
 
+
 > ¿Qué es conocer la ley de Ohm?
+
 
 ## {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
@@ -692,8 +694,6 @@ En un ensayo genial, Brown (1996) pone sobre la mesa que no es lo mismo enseñar
 
 ## Lista de referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
-Arce, M. (2018). El cuaderno de matemáticas: un instrumento relevante en las aulas que suele pasar desapercibido. _La Gaceta de la RSME, 21_(2), 367-387.
-
 Arce, M., Conejo, L., & Muñoz, J. M. (2019). _Aprendizaje y enseñanza de las matemáticas_. Madrid: Síntesis.
 
 Arnal-Bailera, A. (2013). _Mediación tecnológica en la enseñanza y el aprendizaje de geometría con grupos de riesgo_. Tesis doctoral. Universidad Autónoma de Barcelona. [Enlace](https://www.tdx.cat/handle/10803/128998)
@@ -702,17 +702,15 @@ Batanero, C. (2005). Significados de la probabilidad en la educación secundaria
 
 Beltrán-Pellicer, P., & Cárdenas, J. A. (2019). Polígrafos y canicas en Desmos como ejemplos de propuestas éticas de enseñanza y aprendizaje en matemáticas. _UNO, 84_, 40-44.
 
+
 ##
 
 Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. [Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full)
 
-Beltrán-Pellicer, P., Godino, J. D. (2019). An onto-semiotic approach to the analysis of the affective domain in mathematics education. _Cambridge Journal of Education_, 1-20. [Enlace](https://www.tandfonline.com/eprint/KimkMTSJt9uGibVg9Gej/full?target=10.1080/0305764X.2019.1623175) 
+Brown, L., & Coles, A. (2013).On doing the same problem – first lessons and relentless consistency. En C. Margolinas (Ed.), _Task design in mathematics education (Proceedings of the International Commission on Mathematical Instruction Study 22_, pp. 617–626), Oxford, UK. [Enlace](http://hal.archives-ouvertes.fr/hal-00834054)
 
-Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. En J. M. Contreras, M. M. Gea, M. M. López-Martín, & E. Molina-Portillo (Eds.) _Actas del Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.ugr.es/~fqm126/civeest.html)
 
 ##
-
-Brown, L., & Coles, A. (2013).On doing the same problem – first lessons and relentless consistency. En C. Margolinas (Ed.), _Task design in mathematics education (Proceedings of the International Commission on Mathematical Instruction Study 22_, pp. 617–626), Oxford, UK. [Enlace](http://hal.archives-ouvertes.fr/hal-00834054)
 
 Cai, J., & Lester, F. (2010). Why is Teaching with Problem Solving Important to Student Learning? _NCTM, 13_(12), 1–6. [Enlace](https://www.nctm.org/uploadedFiles/Research_and_Advocacy/research_brief_and_clips/Research_brief_14_-_Problem_Solving.pdf)
 
@@ -720,20 +718,22 @@ Carrillo-Yañez, J., Climent, N., Montes, M., Contreras, L. C., Flores-Medrano, 
 
 Cid, E. (2015). _Obstáculos epistemológicos en la enseñanza de los números negativos_. Tesid doctoral. Universidad de Zaragoza. [Enlace](http://www.atd-tad.org/documentos/obstaculos-epistemologicos-en-la-ensenanza-de-los-numeros-negativos-tesis-doctoral/)
 
+
 ##
-
-
 
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L. D. English, & D. Kirshner (Eds.), _Handbook of International Research in Mathematics Education_, pp. 313-335. Routledge.
 
 Ernest, P. (2000). Why Teach Mathematics. En J. White & S. Bramall, *Why Learn Maths?*. London University Institute of Education: London. [Enlace](http://socialsciences.exeter.ac.uk/education/research/centres/stem/publications/pmej/why.htm)
 
 
+##
+
 Escolano, R. (2007.) _Enseñanza del número racional positivo en Educación Primaria: un estudio desde modelos de medida y cociente._ Tesis doctoral. Universidad de Zaragoza. [Enlace](https://zaguan.unizar.es/record/84666) 
 
 Escolano, R., & Gairín, J. M. (2005). Modelos de medida para la enseñanza del número racional en Educación Primaria. _Unión, 1_, 17–35.
 
 Gairín, J. M., & Sancho, J. (2002). _Números y algoritmos_. Madrid: Síntesis.
+
 
 ##
 
@@ -743,25 +743,28 @@ Godino, J. D. (2013). Indicadores de idoneidad didáctica de procesos de enseña
 
 Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad. Fundamentos didácticos y propuestas curriculares_. Madrid: Síntesis.
 
+
 ##
 
 Godino, J. D., Batanero, C., Font, V., & Giacomone, B. (2016). Articulando conocimientos y competencias del profesor de matemáticas: el modelo CCDM. En C. Fernández, J. L. González, F. J. Ruiz, T. Fernández, & A. Berciano (Eds.), _Investigación en Educación Matemática XX_ (pp. 288–297). Málaga: SEIEM. [Enlace](http://funes.uniandes.edu.co/8859/)
 
 Gómez-Chacón, I. M. (2000). _Matemática emocional: Los afectos en el aprendizaje matemático._ Madrid: Narcea.
 
+
 ##
 
 Hill, H.C., Ball, D.L., & Schilling, S.G. (2008). Unpacking pedagogical content knowledge: Conceptualizing and measuring teachers topic specific knowledge of students. *Journal for Research in Mathematics Education, 39*(4), 372-400.
 
 
-
 Martínez-Juste, S., Muñoz-Escolano, J. M., & Oller-Marcén, A. M. (2019). Una experiencia de investigación-acción para la enseñanza de la proporcionalidad compuesta._ Enseñanza de las ciencias, 37_(2), 85-106. [Enlace](https://www.raco.cat/index.php/Ensenanza/article/download/356155/448100)
+
 
 ##
 
 Martínez-Juste, S., Muñoz-Escolano, J. M., Oller-Marcén, A. M. y Pecharromán, C. (2014). Una propuesta innovadora para la enseñanza de la proporcionalidad aritmética en el primer ciclo de ESO. En Consejería de Educación de la Junta de Castilla y León (Ed.), Las nuevas metodologías en la enseñanza y el aprendizaje de las Matemáticas (pp. 459-470). Segovia: Academia de Artillería de Segovia. [Enlace](https://riemann.unizar.es/grupodidactica/data/uploads/martinez-munoz-oller-pecharroman-2015-proporcionalidad.pdf)
 
 Oller-Marcén, A. (2012). _Proporcionalidad aritmética: una propuesta didáctica para alumnos de secundaria_. Tesis doctoral. Universidad de Valladolid. [Enlace](http://uvadoc.uva.es/handle/10324/1118)
+
 
 ##
 
