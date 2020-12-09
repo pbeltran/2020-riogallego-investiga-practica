@@ -63,16 +63,16 @@ Entre el mundo de la "innovación" (ojo comillas) y el de los que detestan todo 
 Gascón & Nicolás (2017). 
 
 
-# Habéis elegido dos artículos para la tertulia...
+# Habéis elegido dos artículos para la tertulia... {data-background-image="assets/images/articles.jpg" data-background-opacity="0.2"}
 
-##
+## {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 :pushpin: Feito, R. (2010). De las competencias básicas al currículum integrado. *Qurriculum Revista de Teoría, Investigación y Práctica Educativa, 23*, 55-79. [Enlace](https://riull.ull.es/xmlui/bitstream/handle/915/13343/Q_23_%282010%29_03.pdf?sequence=1&isAllowed=y)
 
 :pushpin: Grossman, P. (2005). Profesores de Sustancia: El conocimiento de la materia para la enseñanza *Profesorado. Revista de currículum y formación del profesorado, 9*(2), 1-25. [Enlace](https://recyt.fecyt.es/index.php/profesorado/article/view/42676)
 
 
-## Algunas anotaciones sobre Feito (2010)
+## Algunas anotaciones sobre Feito (2010) {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 - Aprendizaje por competencias: qué cabe esperar de una persona después de la ESO. Para desenvolverse con soltura como trabajador, como ciudadano, como miembro de una familia, de una comunidad.
 - No basta con los meros conocimientos. 
@@ -81,14 +81,14 @@ Gascón & Nicolás (2017).
 
 > ¿Qué es conocer la ley de Ohm?
 
-##
+## {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 - Escuela pensada para una minoría. Carácter propedéutico y segregador. 
 - Segmenta los saberes en asignaturas, lo que da lugar a descoordinaciones. 
 - El alumnado es muy consciente de esta limitación. Intereses del alumnado.
 - La lógica es la de la globalización curricular. 
 
-##
+## {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 - Ejemplo sobre Historia. Los alumnos memorizan fechas y los acontecimientos claves. Esto da lugar a una comprensión superficial y a un escaso interés en el tema abordado. 
 - El alumnado no llega a desarrollar destrezas fundamentales como escribir, investigar, resolver problemas, destrezas que solo pueden adquirirse si se dedica el suficiente tiempo y energía para analizar una única cuestión, como pudiera ser la Gran Depresión.
@@ -96,37 +96,79 @@ Gascón & Nicolás (2017).
 
 
 
-## Algunos apuntes sobre Grossman (2010)
+## Algunos apuntes sobre Grossman (2010) {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 ![](assets/images/pck.png){width=50%}
 
 Shulman’s (1986) domains of pedagogical content knowledge (PCK)
 
-## MKT
+## MKT {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 ![](assets/images/mkt.png){width=75%}
 
 Mathematical knowledge for teaching (MKT) (Hill et al., 2008, p. 377)
 
-## MTSK
+## MTSK {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 ![](assets/images/mtsk.png){width=60%}
 
 Mathematics teacher’s specialised knowledge (MTSK) (Carrillo-Yañez, et al., 2018)
 
-## CCDM {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.18"}
+## CCDM {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 ![](assets/images/ccdm.jpg){width=75%}
 
 Modelo de conocimientos y competencias Godino, Batanero, Font, & Giacomone (2016). 
 
-## CCDM {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.18"}
+## CCDM {data-background-image="assets/images/articles.jpg" data-background-opacity="0.16"}
 
 ![](assets/images/CCDM-comp.png){width=75%}
 
 Modelo de Conocimientos y Competencias Didáctico-Matemáticas (CCDM) (Godino, Batanero, Font, & Giacomone (2016). 
 
-# Conocimiento especializado y didáctico-matemático
+# Conocimiento especializado y didáctico-matemático {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.20"}
+
+
+## Conocimiento especializado {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.16"}
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](assets/images/anglo.png){width=100%}
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/tradi.png){width=100%}
+
+:::
+:::::::::::::
+
+## Conocimiento especializado {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.16"}
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](assets/images/anglo.png){width=80%}
+
+435 = 420 + 15
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/tradi.png){width=80%}
+
+435-147 =
+
+= (435+10)-(147+10)
+
+:::
+:::::::::::::
+
 
 
 ## Enfoques de enseñanza {data-background-image="assets/art/clase.jpg" data-background-opacity="0.2"}
@@ -547,7 +589,7 @@ Abdel y Conrad están en los puntos del parque que tienes marcados en la foto. T
 :::
 :::::::::::::
 
-## Geometría: definiciones
+## Geometría: definiciones {data-background-image="assets/images/areas.jpg" data-background-opacity="0.2"}
 
 :::::::::::::: {.columns}
 
@@ -570,45 +612,44 @@ Fuente: prácticas de Didáctica de la Geometría. Área de Didáctica de la Mat
 
 
 
-## Geometría: áreas
+## Geometría: áreas {data-background-image="assets/images/areas.jpg" data-background-opacity="0.2"}
 
-![](assets/images/areas.jpg){width=90%}
-
-
+![](assets/images/areas.jpg){width=80%}
 
 
-# ¿Por qué enseñar matemáticas?
+# ¿Por qué enseñar matemáticas? {data-background-image="assets/art/student.jpg" data-background-opacity="0.20"}
 
-## ¿Por qué enseñar matemáticas? (Ernest, 2000)
+## ¿Por qué enseñar matemáticas? (Ernest, 2000) {data-background-image="assets/art/student.jpg" data-background-opacity="0.16"}
 
 - No existe LA matemática escolar. 
-- La utilidad de las matemáticas académicas está sobrevalorada. Sí, vivimos en una sociedad altamente matematizada, muy científica y tecnológica. _Nuestra sociedad vive un incesante proceso de matematización, pero esto es algo que opera a un nivel invisible para la mayoría de los individuos_.
+- La utilidad de las matemáticas académicas está sobrevalorada. *Nuestra sociedad vive un incesante proceso de matematización, pero esto es algo que opera a un nivel invisible para la mayoría*.
 - Los objetivos de la educación matemática no pueden considerarse de forma aislada a su contexto social (intencionalidad).
 
 > Dos dimensiones a la hora de diseñar el currículo: *capacidad* (o habilidad, o competencia, para entendernos) y *apreciación* de las matemáticas.
 
 
-## Objetivos de las matemáticas escolares obligatorias
+## Objetivos de las matemáticas escolares {data-background-image="assets/art/student.jpg" data-background-opacity="0.16"}
 
 :::incremental
 
-- Obj1. Reproducir habilidades matemáticas y capacidades basadas en el conocimiento. El obj1 es típico del currículo reproductivo. 
+- Obj1. Reproducir habilidades matemáticas y capacidades basadas en el conocimiento. Típico del currículo reproductivo. 
 - Obj2. Desarrollar habilidades creativas en matemáticas. Aprender a ser creativo y a expresarse vía trabajos de investigación, resolución de problemas, diferentes representaciones, etc. 
 - Obj3. Desarrollar habilidades matemáticas que empoderen y una apreciación crítica de las aplicaciones y usos sociales de las matemáticas. 
 - Obj4. Desarrollar una apreciación interna de las matemáticas: sus grandes ideas y su naturaleza. Es decir, las matemáticas como una contribución única a la cultura humana, con unos conceptos y un sentido de la estética propios.
 :::
 
-## ¿Qué matemáticas queremos?
-
+## ¿Qué matemáticas queremos? {data-background-image="assets/art/student.jpg" data-background-opacity="0.16"}
+ 
 Y es que las matemáticas serán maravillosas, pero también pueden servir para discriminar y fomentar la desigualdad de oportunidades.
 
  > ¿De qué matemáticas estamos hablando? ¿Qué subconjunto de objetivos persiguen?
+ 
 
-## Enseñar matemáticas humanistas y enseñar matemáticas de forma humanista 
+## Enseñar matemáticas humanistas y enseñar matemáticas de forma humanista {data-background-image="assets/art/student.jpg" data-background-opacity="0.16"}
 
 En un ensayo genial, Brown (1996) pone sobre la mesa que no es lo mismo enseñar matemáticas humanistas que enseñar matemáticas de forma humanista.
 
-![](assets/images/brown1.png){width=80%}
+![](assets/images/brown1.png){width=70%}
 
 
 
